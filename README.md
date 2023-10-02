@@ -2,7 +2,7 @@
 
 **`Full Stack Software Engineer`**
 
-I am a full-stack Software Engineer with a background in Biochemistry, passionate about environmental issues, animal welfare, and sustainability. With a unique combination of scientific expertise and software engineering skills, I’m passionate about developing  innovative solutions that bridge the gap between technology and environmental science. I am driven by the opportunity to make a positive impact by creating software applications and tools that empower individuals, organizations, and institutions to address environmental challenges and promote a more sustainable future.
+I am Software Engineer with a background in Biochemistry, I'm driven to develop tech solutions that promote sustainability and environmental welfare. I bring a unique blend of scientific expertise and coding skills to the table. My goal is to build innovative apps, platforms and tools that empower organizations and individuals to drive social and environmental impact. I'm passionate about collaborating across disciplines to inspire positive change through technology.
 
 ---
 
